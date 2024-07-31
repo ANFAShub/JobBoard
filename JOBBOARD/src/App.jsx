@@ -21,7 +21,7 @@ function App() {
   const user = {};
   return (
 <main className='bg-[#f7fdfd]'>
-  <Navbar/>
+  <Navbar />
 
 <Routes>
 <Route element={<Layout/>}> 
